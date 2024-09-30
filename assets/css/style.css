@@ -1348,7 +1348,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .avatar-box { border-radius: 30px; }
 
-  .avatar-box img { width: 120px; }
+  .avatar-box img { width: 120px; 
+		    hight: 160px;
+  }
 
   .info-content .name { margin-bottom: 15px; }
 
@@ -1844,7 +1846,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { flex-direction: column; }
 
-  .avatar-box img { width: 60px; }
+  .avatar-box img { 
+	  width: 60px;
+	  hight: 80px
+  }
 
   .info-content .name {
     white-space: nowrap;
